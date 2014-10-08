@@ -1,4 +1,4 @@
-tatuazh_django_new
+This is production version
 ==================
 
 Good template with django implatemention
