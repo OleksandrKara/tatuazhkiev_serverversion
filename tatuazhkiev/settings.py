@@ -45,7 +45,7 @@ INSTALLED_APPS = (
 	'django.contrib.flatpages',
 	'django.contrib.sites',
 	'tinymce',
-     'flatpages_tinymce',
+#     'flatpages_tinymce',
      'tatuazhkiev.mymenu',
      'tatuazhkiev.articles',
      'disqus',
@@ -88,7 +88,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'tatuazhkiev',
 		'USER': 'root',
-		'PASSWORD': 'TrustPoint85',
+		'PASSWORD': '1111',
 		'HOST': 'localhost',
         'PORT': '3306',
     }
